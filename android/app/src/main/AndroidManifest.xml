@@ -1,6 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.permission_handler_app">
-   <application
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
         android:label="permission_handler_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
